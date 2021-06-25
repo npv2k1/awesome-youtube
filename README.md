@@ -1,11 +1,12 @@
 
 # Awesome Youtube
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Vercel](http://therealsujitk-vercel-badge.vercel.app/?app=awesome-yt)
+
 
 ## Demo
 
-![image-20210625181223926](\assets\image-20210625181223926.png)
+![image-20210625181223926](/assets/image-20210625181223926.png)
 
 ## Cralws
 
