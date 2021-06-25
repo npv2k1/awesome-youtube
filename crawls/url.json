@@ -1,0 +1,2742 @@
+{
+  "Programming": {
+    "id": "programming",
+    "list": [
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/Freecodecamp",
+        "name": "freeCodeCamp.org",
+        "playlists": [
+          "Python Tutorials",
+          "Machine Learning",
+          "Java Tutorials"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/GeeksLesson",
+        "name": "Geek's Lesson",
+        "playlists": [
+          "Data structures playlists",
+          "Backend programming languages videos",
+          "Mathematics videos"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/nesoacademy/videos",
+        "name": "Neso Academy"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/TensorProgramming",
+        "name": "Tensor Programming",
+        "playlists": [
+          "Flutter Tutorials",
+          "Dart & Dart for Beginners",
+          "Intro to Rust & Rust Projects"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+        "name": "Fireship"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/intellipaaat",
+        "name": "Intellipaat",
+        "playlists": [
+          "DevOps Tutorial for Beginners",
+          "Artificial Intelligence Tutorial",
+          "Machine Learning Tutorial",
+          "Python Tutorial for Beginners"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/ProgrammingKnowledge",
+        "name": "ProgrammingKnowledge",
+        "playlists": [
+          "Node.js Tutorial for Beginners",
+          "Python 3 Tutorial for Beginners",
+          "C++ Programming Tutorial for Beginners",
+          "other videos about different programming languages"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
+        "name": "Tech With Tim",
+        "playlists": [
+          "Python Machine Learning Tutorials",
+          "Python Programming Tutorials",
+          "Kivy Tutorials Python",
+          "and other Python"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g",
+        "name": "Aaron Jack"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/JavaBrainsChannel",
+        "name": "Java Brains",
+        "playlists": [
+          "Spring Framework Courses playlists",
+          "Spring Boot Microservices - Full Course playlists",
+          "Java EE Courses playlists"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/99baddawg",
+        "name": "Ben Awad"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/IAmTimCorey",
+        "name": "IAmTimCorey",
+        "playlists": [
+          "Advanced Topics in C#",
+          "Getting Started with C#",
+          "C# User Interfaces",
+          "many other C# videos",
+          "NET video tutorials"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/CSDojo/featured",
+        "name": "CS Dojo",
+        "playlists": [
+          "Data Structures and Algorithms",
+          "Python Tutorials for Absolute Beginners",
+          "Coding Interview Questions and Answers"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/DevonCrawford/featured",
+        "name": "Devon Crawford"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/GiraffeAcademy/featured",
+        "name": "Mike Dane"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/programmingwithmosh",
+        "name": "Programming with Mosh"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA",
+        "name": "TechWorld with Nana"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCTjPBE9BNsmv44wgxWEy2zw",
+        "name": "Will Kwan"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q",
+        "name": "William Lin"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/WilliamFiset-videos",
+        "name": "WilliamFiset",
+        "playlists": [
+          "Network Flow playlists",
+          "Data structures playlists",
+          "Graph Theory playlists",
+          "Tree Algoritms",
+          "Dynamic Programming"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw",
+        "name": "Joma Tech"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg",
+        "name": "george hotz archive"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCyrF_lsKS9kQ3OUKQkgYh3A",
+        "name": "maria sitkovets"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/shiffman",
+        "name": "The Coding Train",
+        "playlists": [
+          "The Nature of Code: Simulating Natural Systems with Processing",
+          "Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/CodingTech",
+        "name": "Coding Tech",
+        "playlists": [
+          "Frontend development videos",
+          "Backend development videos",
+          "Theoretical videos",
+          "a lot more tech topics playlists!"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/SimplifiedcodingNetOfficial",
+        "name": "Simplified Coding",
+        "playlists": [
+          "PHP, MySQL and Firebase videos",
+          "Kotlin Programming Tutorial",
+          "more videos and playlists"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/smartherd",
+        "name": "Smartherd",
+        "playlists": [
+          "a lot of Kotlin & Android videos",
+          "Ruby Tutorial for Beginners",
+          "Dart Tutorial for Beginners",
+          "Java Tutorial for Beginners"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCQ2zUgxOwo5lzX11maTQmng",
+        "name": "Asto Way"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/KennyGunderman/featured",
+        "name": "Kenny Gunderman"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/gerardonfiya/featured",
+        "name": "Gerard Taylor"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCaiL2GDNpLYH6Wokkk1VNcg",
+        "name": "mCoding"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/DonJonesConTech",
+        "name": "Don Jones",
+        "playlists": [
+          "Python Tutorials",
+          "Django Tutorials",
+          "Flask Tutorials",
+          "Matplotlib Tutorials",
+          "SQL Tutorials"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/derekbanas/featured",
+        "name": "Derek Banas",
+        "playlists": [
+          "Learn Algebra, C++ Tutorial",
+          " C# Tutorial",
+          "Java Video Tutorial",
+          "a lot of diverse topics"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/briantwill",
+        "name": "Brian Will",
+        "playlists": [
+          "OpenGL",
+          "the Clojure language",
+          "Python playlists",
+          "Pigeon, an educational programming language",
+          "many more interesting playlists!"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/LearningLad",
+        "name": "LearningLad",
+        "playlists": [
+          "Learn C Programming Language | Tutorial for Beginners",
+          "Learn C++ Programming | Video Tutorial for Beginners",
+          "C++ Object Oriented Programming",
+          "and many more playlists"
+        ]
+      },
+      {
+        "name": "Caleb Curry",
+        "link": "https://www.youtube.com/c/CalebTheVideoMaker2",
+        "playlists": [
+          "Python Programming",
+          "JavaScript playlists",
+          "C# Tutorials",
+          "C Programming Tutorials",
+          "C++ Tutorials",
+          "Java Tutorials",
+          "database tutorial videos"
+        ]
+      },
+      {
+        "name": "CodingEntrepreneurs",
+        "link": "https://www.youtube.com/c/CodingEntrepreneurs",
+        "playlists": [
+          "30 Days of Python ~ Python 3.8+",
+          "Coding With Python",
+          "Python 3.8 and Django 3+",
+          "Install and setup on Windows and Mac"
+        ]
+      },
+      {
+        "name": "Sebastiaan Mathôt",
+        "link": "https://www.youtube.com/c/SebastiaanMath%C3%B4t",
+        "playlists": [
+          "Python lectures",
+          "Improving and optimizing Python",
+          "some other Python playlists!"
+        ]
+      },
+      {
+        "name": "AngelSix",
+        "link": "https://www.youtube.com/c/AngelSix",
+        "playlists": [
+          "C# Mastery Course (2020)",
+          "C# Programming (Beginners)",
+          "NET Core and ASP.NET Server Development Tutorials",
+          "WPF UI Programming (C#)"
+        ]
+      },
+      {
+        "name": "DataDaft",
+        "link": "https://www.youtube.com/c/DataDaft",
+        "playlists": [
+          "Python for Data Analysis",
+          "Introduction to R",
+          "Python Programming Practice",
+          "Pandas",
+          "more playlists!"
+        ]
+      },
+      {
+        "name": "Fun Fun Function",
+        "link": "https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q",
+        "playlists": [
+          "OOP in js",
+          "Unit testing",
+          "TDD",
+          "Functional programming in JavaScript"
+        ]
+      },
+      {
+        "name": "Mike Dane",
+        "link": "https://www.youtube.com/c/GiraffeAcademy/",
+        "playlists": [
+          "MongoDB - NoSQL Database",
+          "PHP - Programming Language",
+          "C# - Programming Language",
+          "C++ - Programming Language"
+        ]
+      },
+      {
+        "name": "KodingKevin",
+        "link": "https://www.youtube.com/channel/UCXpGqiSd3BD0FQ9OP3ziFsw",
+        "playlists": [
+          "Array Methods Mini Course",
+          "Javascript Algorithms + Data Structures"
+        ]
+      },
+      {
+        "name": "The Cherno",
+        "link": "https://www.youtube.com/user/TheChernoProject",
+        "playlists": [
+          "Game Engine",
+          "C++",
+          "OpenGL",
+          "3D game programming in java"
+        ]
+      },
+      {
+        "name": "Hussein Nasser",
+        "link": "https://www.youtube.com/c/HusseinNasser-software-engineering",
+        "playlists": [
+          "High Availability",
+          "Python by Example",
+          "HTTP/2",
+          "Message Queues & PubSub Systems",
+          "Proxies",
+          "many more video tutorials"
+        ]
+      },
+      {
+        "name": "Alex Lee",
+        "link": "https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA",
+        "playlists": [
+          "Java Basics 1",
+          "Java Basics 2",
+          "Java Intermediate 1"
+        ]
+      },
+      {
+        "name": "Redis University",
+        "link": "https://www.youtube.com/c/RedisUniversity",
+        "playlists": [
+          "Redis Explained: Learn Redis"
+        ]
+      },
+      {
+        "name": "NeuralNine",
+        "link": "https://www.youtube.com/c/NeuralNine",
+        "playlists": [
+          "Algorithms & Data Structures",
+          "Python Machine Learning Tutorial",
+          "Python AI Projects",
+          "Python Hacking Projects",
+          "Python beginner/intermediate tutorials"
+        ]
+      },
+      {
+        "name": "Real Python",
+        "link": "https://www.youtube.com/c/realpython",
+        "playlists": [
+          "Python - Intermediate and Advanced Features",
+          "Functional Programming in Python",
+          "Tools for Effective Python Development",
+          "How to Build Your Python Career"
+        ]
+      },
+      {
+        "name": "LucidProgramming",
+        "link": "https://www.youtube.com/c/LucidProgramming",
+        "playlists": [
+          "Algorithms (Python)",
+          "Data Structures (Python)",
+          "Technical Interview Preparation",
+          "Web Scraping and Automation (Python)",
+          "many more videos"
+        ]
+      },
+      {
+        "name": "Nick Chapsas",
+        "link": "https://www.youtube.com/user/ElfocrashDev",
+        "playlists": [
+          "ASP.NET Core REST API Tutorial",
+          "ASP.NET Core General Tutorials",
+          "Essential Nuget Packages in .NET",
+          "Discussion and Advice",
+          "Software Engineering Fundamentals"
+        ]
+      },
+      {
+        "name": "Python In 1 Minute",
+        "link": "https://www.youtube.com/c/PythonIn1Minute",
+        "playlists": [
+          "1-Minute Tutorials",
+          "a lot of Python videos from various Python topics"
+        ]
+      },
+      {
+        "name": "Andreas Kling",
+        "link": "https://www.youtube.com/c/AndreasKling",
+        "playlists": [
+          "Browser hacking",
+          "DevTools hacking",
+          "OS hacking",
+          "SerenityOS",
+          "Emulator hacking"
+        ]
+      },
+      {
+        "name": "Hackers Realm",
+        "link": "https://www.youtube.com/channel/UCX7-Wi9ioslA9691INtFO5Q",
+        "playlists": [
+          "Hackerrank Problem Solving",
+          "Machone/Deep learning Projects Tutorials"
+        ]
+      },
+      {
+        "name": "Bro Code",
+        "link": "https://www.youtube.com/channel/UC4SVo0Ue36XCfOyb5Lh1viQ",
+        "playlists": [
+          "playlists of these languages with a lot of videos"
+        ]
+      },
+      {
+        "name": "NullPointer Exception",
+        "link": "https://www.youtube.com/channel/UCmWDlvMYYEbW42B8JyxFBcA",
+        "playlists": [
+          "Introduction to Data Structures",
+          "Sorting Algorithm Lectures/Visualizations",
+          "Introduction to Object-Oriented Programming"
+        ]
+      },
+      {
+        "name": "dotNET",
+        "link": "https://www.youtube.com/c/dotNET",
+        "playlists": [
+          "Desktop and .NET Code 101",
+          "ASP.NET Core 101",
+          "DevOps for .NET",
+          "C# Language Highlights",
+          "C# Advanced",
+          "and more"
+        ]
+      },
+      {
+        "name": "kudvenkat",
+        "link": "https://www.youtube.com/c/Csharp-video-tutorialsBlogspot",
+        "playlists": [
+          "Design Patterns tutorial for beginners",
+          "SQL Server tutorial for beginners",
+          "c# tutorial for beginners",
+          "ASP.NET tutorial for beginners"
+        ]
+      },
+      {
+        "name": "Ian Schoenrock",
+        "link": "https://www.youtube.com/channel/UCg1SjE1gwO8A0xqoFtfLEAA",
+        "playlists": [
+          "C# Full Course Beginner to Advanced",
+          "Swift Course",
+          "Kotlin Course",
+          "Xamarin Forms Lists Course",
+          "and more"
+        ]
+      },
+      {
+        "name": "javidx9",
+        "link": "https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA",
+        "playlists": [
+          "NES Emulator From Scratch",
+          "Interesting Programming",
+          "Code-It-Yourself!"
+        ]
+      }
+    ]
+  },
+  "Web development": {
+    "id": "webdev",
+    "list": [
+      {
+        "name": "Codevolution",
+        "link": "https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw",
+        "playlists": [
+          "React.js Tutorial for Beginners",
+          "React.js Hooks Tutorial",
+          "React.js Redux Tutorial",
+          "React.js Storybook Tutorial",
+          "React.js Formik Tutorial",
+          "Practical React.js"
+        ]
+      },
+      {
+        "name": "Flux",
+        "link": "https://www.youtube.com/c/FluxWithRanSegall",
+        "playlists": [
+          "Free Web Design Course 2020",
+          "Portfolios: Case Studies & Reviews",
+          "How To Start Freelancing",
+          "FREELANCE TIPS: How to find clients & grow your business"
+        ]
+      },
+      {
+        "name": "techsith",
+        "link": "https://www.youtube.com/c/Techsithtube",
+        "playlists": [
+          "react js from scratch",
+          "Node.js Tutorials For Beginners",
+          "Data Structures in JavaScript",
+          "Interview Preparation"
+        ]
+      },
+      {
+        "name": "CSS Animation",
+        "link": "https://www.youtube.com/channel/UC4QVZ552Q-dXIdMSc2cewcA",
+        "playlists": [
+          "Full Course: Level Up Your CSS Animation Skills"
+        ]
+      },
+      {
+        "name": "Dani Krossing",
+        "link": "https://www.youtube.com/c/TheCharmefis",
+        "playlists": [
+          "HTML and CSS Tutorials",
+          "JavaScript Tutorials",
+          "PHP Tutorials",
+          "jQuery Tutorials"
+        ]
+      },
+      {
+        "name": "JavaScript Mastery",
+        "link": "https://www.youtube.com/c/JavaScriptMastery",
+        "playlists": [
+          "Learn JavaScript",
+          "Master React.js by Building Real Projects"
+        ]
+      },
+      {
+        "name": "Omatum",
+        "link": "https://www.youtube.com/c/Omatum",
+        "playlists": [
+          "Live Omatum Bucks Software Project Streams",
+          "Software Project: OmatumBucks",
+          "Live Omatum.com Website Development Project Streams",
+          "Uncut Live Streams"
+        ]
+      },
+      {
+        "name": "Punit Chawla",
+        "link": "https://www.youtube.com/c/PunitChawla",
+        "playlists": [
+          "Design Weekly",
+          "Design Essentials"
+        ]
+      },
+      {
+        "name": "Dev Ed",
+        "link": "https://www.youtube.com/c/DevEd",
+        "playlists": [
+          "Web Design Tutorial (UI & UX)",
+          "React.js Tutorial For Beginners",
+          "CSS Tutorials",
+          "JavaScript tutorials playlists"
+        ]
+      },
+      {
+        "name": "DesignCourse",
+        "link": "https://www.youtube.com/c/DesignCourse",
+        "playlists": [
+          "Illustrator Tutorials",
+          "Adobe XD Tutorials",
+          "Photoshop Tutorials",
+          "LATEST DEV TUTS",
+          "LATEST DESIGN TUTS"
+        ]
+      },
+      {
+        "name": "Traversy Media",
+        "link": "https://www.youtube.com/c/TraversyMedia",
+        "playlists": [
+          "HTML & CSS",
+          "Vanilla JavaScript",
+          "Node.js Videos",
+          "React.js Projects",
+          "PHP Front To Back",
+          "a lot more of web development playlists!"
+        ]
+      },
+      {
+        "name": "Thomas Bradley",
+        "link": "https://www.youtube.com/c/acinteractivedesign",
+        "playlists": [
+          "Accessibility and performance videos",
+          "Jekyll playlists",
+          "CSS animation videos",
+          "SEO videos",
+          "more videos/playlists about web development"
+        ]
+      },
+      {
+        "name": "Red Stapler",
+        "link": "https://www.youtube.com/c/RedStapler_channel",
+        "playlists": [
+          "CSS Tips and Tricks",
+          "some playlists about JavaScript libraries"
+        ]
+      },
+      {
+        "name": "Brian Design",
+        "link": "https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A",
+        "playlists": [
+          "React.js Tutorials",
+          "HTML, CSS & JavaScript Tutorials",
+          "videos of web design (UI/UX)"
+        ]
+      },
+      {
+        "name": "Fireship",
+        "link": "https://www.youtube.com/c/AngularFirebase",
+        "playlists": [
+          "100 Seconds of Code",
+          "Angular Essentials",
+          "Flutter",
+          "Frontend Mini Projects"
+        ]
+      },
+      {
+        "name": "Academind",
+        "link": "https://www.youtube.com/c/Academind",
+        "playlists": [
+          "React.js + Redux Basics",
+          "Vue.js 2 - Getting Started",
+          "Amazon Web Services Basics"
+        ]
+      },
+      {
+        "name": "Florin Pop",
+        "link": "https://www.youtube.com/c/FlorinPop",
+        "playlists": [
+          "Learn JavaScript",
+          "Learn React.js",
+          "Learn CSS",
+          "JavaScript Array Methods"
+        ]
+      },
+      {
+        "name": "LevelUpTuts",
+        "link": "https://www.youtube.com/c/LevelUpTuts",
+        "playlists": [
+          "Design Tutorials playlists",
+          "CMS Tutorials playlists",
+          "HTML & CSS Tutorials",
+          "React.js videos",
+          "and more!"
+        ]
+      },
+      {
+        "name": "Programming with Mosh",
+        "link": "https://www.youtube.com/c/programmingwithmosh",
+        "playlists": [
+          "JavaScript Tutorials",
+          "JavaScript frameworks videos",
+          "Python Tutorials",
+          "Node.js Tutorials",
+          "C#.NET Tutorials"
+        ]
+      },
+      {
+        "name": "LearnCode.academy",
+        "link": "https://www.youtube.com/c/learncodeacademy",
+        "playlists": [
+          "JavaScript Tutorial for Beginners",
+          "React.js, Angular and Vue.js playlists",
+          "MEAN Stack Tutorials",
+          "jQuery Tutorial for Beginners"
+        ]
+      },
+      {
+        "name": "Raw Coding",
+        "link": "https://www.youtube.com/c/RawCoding",
+        "playlists": [
+          "Modern Web Development Series",
+          "Vue.js Beginner Guide with ASP.NET Core",
+          "ASP.NET Core Tutorials",
+          "a lot more .NET tutorials!"
+        ]
+      },
+      {
+        "name": "Layout Land",
+        "link": "https://www.youtube.com/c/LayoutLand",
+        "playlists": [
+          "CSS theoretical and practical videos"
+        ]
+      },
+      {
+        "name": "The Net Ninja",
+        "link": "https://www.youtube.com/c/TheNetNinja",
+        "playlists": [
+          "Flutter Tutorial for Beginners",
+          "React.js and React Native playlists",
+          "a lot of JavaScript playlists, including JavaScript frameworks",
+          "GraphQL Tutorial"
+        ]
+      },
+      {
+        "name": "Kevin Powell",
+        "link": "https://www.youtube.com/kepowob",
+        "playlists": [
+          "CSS Grid videos",
+          "Flexbox basics",
+          "Responsive CSS tutorials",
+          "CSS animation",
+          "many more CSS video tutorials!"
+        ]
+      },
+      {
+        "name": "Harry Wolff",
+        "link": "https://www.youtube.com/c/hswolff",
+        "playlists": [
+          "React Tutorials",
+          "Building a React Native App",
+          "JavaScript Tutorials",
+          "TypeScript playlists"
+        ]
+      },
+      {
+        "name": "Coding Garden",
+        "link": "https://www.youtube.com/c/CodingGarden",
+        "playlists": [
+          "Code Wars Code Katas"
+        ]
+      },
+      {
+        "name": "Hitesh Choudhary",
+        "link": "https://www.youtube.com/c/HiteshChoudharydotcom",
+        "playlists": [
+          "JavaScript course",
+          "Docker for Beginners",
+          "MongoDB and Mocha",
+          "Vue JS Crash Course",
+          "a lot more of playlists and videos"
+        ]
+      },
+      {
+        "name": "swyx",
+        "link": "https://www.youtube.com/c/swyxTV",
+        "playlists": [
+          "AWS Amplify"
+        ]
+      },
+      {
+        "name": "Yuri Artyukh",
+        "link": "https://www.youtube.com/user/flintyara",
+        "playlists": [
+          "JavaScript",
+          "Three.js",
+          "gsap",
+          "Pixi.js",
+          "canvas",
+          "glsl",
+          "Shaders"
+        ]
+      },
+      {
+        "name": "Jason Lengstorf",
+        "link": "https://www.youtube.com/c/Lengstorf",
+        "playlists": [
+          "JavaScript",
+          "Web development",
+          "JAMstack"
+        ]
+      },
+      {
+        "name": "DevTips",
+        "link": "https://www.youtube.com/c/DevTipsForDesigners/",
+        "playlists": [
+          "CSS Animations Series",
+          "Learn jQuery in 15 Minutes",
+          "Webflow From Scratch",
+          "Regular Expressions Series"
+        ]
+      },
+      {
+        "name": "Online Tutorials",
+        "link": "https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog",
+        "playlists": [
+          "Css Animation Effects",
+          "Responsive Website Design from Scratch",
+          "Css Button Hover Effect",
+          "Parallax Effect",
+          "Css Tutorials",
+          "and many more..."
+        ]
+      },
+      {
+        "name": "Bitfumes",
+        "link": "https://www.youtube.com/c/Bitfumes/",
+        "playlists": [
+          "Vuejs",
+          "SvelteJs",
+          "Laravel Livewire Full Course",
+          "Learn to use Nuxt.js",
+          "ReactJS Basics",
+          "Laravel PHP Framework Tutorial - Full Course 6.5 Hours (2020)"
+        ]
+      },
+      {
+        "name": "Web Dev Simplified",
+        "link": "https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw",
+        "playlists": [
+          "Small projects",
+          "Who Wants To Be A Megabit (Trivia Game)",
+          "CSS Tutorials",
+          "Web App Security/Authentication"
+        ]
+      },
+      {
+        "name": "Ben Awad",
+        "link": "https://www.youtube.com/c/BenAwad97/",
+        "playlists": [
+          "GraphQL tutorials",
+          "React Hooks",
+          "Practical React",
+          "Typescript, Next.js, And GraphQL Series"
+        ]
+      },
+      {
+        "name": "Ebenezer Don",
+        "link": "https://www.youtube.com/c/ebenezerdon/",
+        "playlists": [
+          "Getting started with Web development",
+          "Version control",
+          "Frontend database management"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q",
+        "name": "Dev Ed"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/SteveGriffith-Prof3ssorSt3v3",
+        "name": "Steve Griffith - Prof3ssorSt3v3"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/TraversyMedia/featured",
+        "name": "Traversy Media"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ",
+        "name": "Coder Coder"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/FilipDev/featured",
+        "name": "Filip"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg",
+        "name": "The Net Ninja"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCJZv4d5rbIKd4QHMPkcABCw",
+        "name": "Kevin Powell"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA",
+        "name": "Florin Pop"
+      }
+    ]
+  },
+  "Software Engineers": {
+    "id": "software-engineers",
+    "list": [
+      {
+        "name": "Learn Google Spreadsheets",
+        "link": "https://www.youtube.com/c/LearnGoogleSpreadsheets",
+        "playlists": [
+          "Google Sheets - Fundamental Skills",
+          "Google Apps Scripts - Fundamental"
+        ]
+      },
+      {
+        "name": "ICT Tutorial Channel",
+        "link": "https://www.youtube.com/c/amamd91",
+        "playlists": [
+          "C++ Tutorial",
+          "Home Networking Tutorial",
+          "Microsoft .NET Tutorial",
+          "Computing in general videos"
+        ]
+      },
+      {
+        "name": "Online Training for Everyone",
+        "link": "https://www.youtube.com/c/OnlineTrainingforEveryone",
+        "playlists": [
+          "Excel 2020 Tutorials",
+          "Advanced Excel Tutorials",
+          "Microsoft Visio Tutorials",
+          "Windows 10 Tutorials"
+        ]
+      },
+      {
+        "name": "Simon Sez IT",
+        "link": "https://www.youtube.com/c/Simonsezit",
+        "playlists": [
+          "Excel playlists",
+          "QuickBooks playlists",
+          "Power BI Tutorials",
+          "Microsoft Outlook 2019",
+          "more videos about Microsoft programs"
+        ]
+      },
+      {
+        "name": "Tom Scott",
+        "link": "https://www.youtube.com/c/TomScottGo",
+        "playlists": [
+          "How To Build An App",
+          "The Basics (Code)",
+          "other science videos"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/KeepOnCoding",
+        "name": "Keep On Coding"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/EngineerMan",
+        "name": "Engineer Man"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCEDkO7wshcDZ7UZo17rPkzQ",
+        "name": "mayuko"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg",
+        "name": "ForrestKnight"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g",
+        "name": "Kevin Naughton Jr."
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ",
+        "name": "Kalle Hallden"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/calvinchancreates",
+        "name": "calvin.c"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g/featured",
+        "name": "Clément Mihailescu"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/NickWhite/featured",
+        "name": "Nick White"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/TwentyFi5ToLife",
+        "name": "Coding With Zhia"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/givemeabreak2469/featured",
+        "name": "Carla Notarobot"
+      }
+    ]
+  },
+  "Computer sciences": {
+    "id": "cs",
+    "list": [
+      {
+        "name": "Zach Star",
+        "link": "https://www.youtube.com/c/zachstar",
+        "playlists": [
+          "Applied Math",
+          "Math Major",
+          "Computer Science/Computer Engineering",
+          "Electrical Engineering",
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "name": "Domain of Science",
+        "link": "https://www.youtube.com/c/DomainofScience",
+        "playlists": [
+          "Mathematics Videos - Domain of Science",
+          "The Map of Quantum Physics Expanded",
+          "Videos I made for D-Wave Systems"
+        ]
+      },
+      {
+        "name": "Neso Academy",
+        "link": "https://www.youtube.com/user/nesoacademy",
+        "playlists": [
+          "Network Theory",
+          "Computer Networks",
+          "Digital Electronics",
+          "Signals and Systems",
+          "Programming languages playlists"
+        ]
+      },
+      {
+        "name": "Computerphile",
+        "link": "https://www.youtube.com/user/Computerphile",
+        "playlists": [
+          "How Computer Memory Works",
+          "Data Analysis with Dr Mike Pound",
+          "Artificial Intelligence with Rob Miles",
+          "Remote Working Technologies"
+        ]
+      },
+      {
+        "name": "stanfordonline",
+        "link": "https://www.youtube.com/user/stanfordonline",
+        "playlists": [
+          "Computer Science and Security",
+          "Engineering",
+          "Energy Technologies",
+          "Leadership and Management",
+          "Natural Language Processing with Deep Learning"
+        ]
+      },
+      {
+        "name": "FCIH OCW",
+        "link": "https://www.youtube.com/user/FCIHOCW",
+        "playlists": [
+          "Data Science, Data Visualization playlists",
+          "Mathematics and Statistics playlists",
+          "more videos related"
+        ]
+      },
+      {
+        "name": "MIT OpenCourseWare",
+        "link": "https://www.youtube.com/c/mitocw",
+        "playlists": [
+          "Mathematics playlists",
+          "Computer science playlists",
+          "Engineering playlists"
+        ]
+      },
+      {
+        "name": "3Blue1Brown",
+        "link": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
+        "playlists": [
+          "Essence Of Calculus",
+          "Essence Of linear Algebra",
+          "Neural Networks"
+        ]
+      },
+      {
+        "name": "Socratica",
+        "link": "https://www.youtube.com/c/Socratica",
+        "playlists": [
+          "Abstract Algebra",
+          "Learn Python playlists",
+          "videos about studying",
+          "many more science topics"
+        ]
+      },
+      {
+        "name": "Abdul Bari",
+        "link": "https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw",
+        "playlists": [
+          "Algorithms"
+        ]
+      },
+      {
+        "name": "mycodeschool",
+        "link": "https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA",
+        "playlists": [
+          "Sorting Algorithms",
+          "Data structures",
+          "Pointers in C/C++",
+          "Introduction to Programming through 'C'"
+        ]
+      },
+      {
+        "name": "Gary Explains",
+        "link": "https://www.youtube.com/c/GaryExplains",
+        "playlists": [
+          "Raspberry Pi",
+          "Microcontrollers",
+          "Programming",
+          "Linux",
+          "more!"
+        ]
+      }
+    ]
+  },
+  "Python": {
+    "id": "python",
+    "list": [
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/NeuralNine",
+        "name": "NeuralNine"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/Coreyms/featured",
+        "name": "Corey Schafer",
+        "playlists": [
+          "Python Tutorials",
+          "Django Tutorials",
+          "Flask Tutorials",
+          "Matplotlib Tutorials",
+          "SQL Tutorials"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/sentdex",
+        "name": "sentdex",
+        "playlists": [
+          "Python Programming for Finance",
+          "Machine Learning with Python",
+          "Neural Networks from Scratch in Python"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/KGMIT/featured",
+        "name": "Keith Galli"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/realpython/videos",
+        "name": "Real Python"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UC68KSmHePPePCjW4v57VPQg",
+        "name": "Python Programmer"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCti8KSLHdoVd7K0VZwUZk_g",
+        "name": "Computational Biology with Python"
+      }
+    ]
+  },
+  "R": {
+    "id": "r",
+    "list": [
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/safe4democracy",
+        "name": "David Robinson"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/asianlongboarder",
+        "name": "Andrew Couch"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCTTBgWyJl2HrrhQOOc710kA",
+        "name": "Julia Silge"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCRhUp6SYaJ7zme4Bjwt28DQ/featured",
+        "name": "David Langer"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCP8l94xtoemCH_GxByvTuFQ",
+        "name": "TidyX"
+      }
+    ]
+  },
+  "Julia": {
+    "id": "julia",
+    "list": [
+      {
+        "name": "The Julia Programming Language",
+        "image": "",
+        "description": "",
+        "link": "https://www.youtube.com/user/JuliaLanguage"
+      }
+    ]
+  },
+  "Flutter": {
+    "id": "flutter",
+    "list": [
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/TheFlutterWay/featured",
+        "name": "The Flutter Way"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw",
+        "name": "Flutter"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/playlists?list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK",
+        "name": "The Boring Flutter Development Show"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/FlutterExplained",
+        "name": "Flutter Explained"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/TadasPetra/featured",
+        "name": "Tadas Petra"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/LearnFlutterCode/featured",
+        "name": "Learn App Code"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/FunwithFlutter/featured",
+        "name": "Fun with Flutter"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/RobertBrunhage/featured",
+        "name": "Robert Brunhage"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/FlutterCommunityVideos/featured",
+        "name": "Flutter Community"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/SuperDeclarative/featured",
+        "name": "SuperDeclarative!"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/Afgprogrammer/featured",
+        "name": "Afgprogrammer"
+      }
+    ]
+  },
+  "Ruby": {
+    "id": "ruby",
+    "list": [
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCkoEStUK7wxmZef2DcPuCAQ/featured",
+        "name": "zayne - YouTube"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/kadwill",
+        "name": "Tom Kadwill - YouTube"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/GorailsTV/featured",
+        "name": "GoRails - YouTube"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/DriftingRuby/featured",
+        "name": "Drifting Ruby - YouTube"
+      }
+    ]
+  },
+  "Audio and video": {
+    "id": "audio-programming",
+    "list": [
+      {
+        "name": "OBEDIA",
+        "link": "https://www.youtube.com/c/Obedia",
+        "playlists": [
+          "PreSonus Studio One Tutorials",
+          "Cubase Tutorials",
+          "Ableton Tutorials by OBEDIA",
+          "Cakewalk Sonar Tutorials"
+        ]
+      },
+      {
+        "name": "Black Mixture",
+        "link": "https://www.youtube.com/c/BlackMixture",
+        "playlists": [
+          "SPEEDPAINT ANIMATION",
+          "Motion Design",
+          "After Effects Tutorials"
+        ]
+      },
+      {
+        "name": "Avnish Parker",
+        "link": "https://www.youtube.com/user/avnishparker",
+        "playlists": [
+          "After Effects Tutorials",
+          "Text Animation - After Effects Tutorials",
+          "Logo Intro - After Effects Tutorials",
+          "Motion Graphics - After Effects Tutorials"
+        ]
+      },
+      {
+        "name": "Deny King",
+        "link": "https://www.youtube.com/c/DenyKingYoutube",
+        "playlists": [
+          "Video Editing",
+          "Manipulation PicsArt",
+          "many other video/photo editing videos"
+        ]
+      },
+      {
+        "name": "Blender Guru",
+        "link": "https://www.youtube.com/user/AndrewPPrice",
+        "playlists": [
+          "Blender beginner tutorial series",
+          "Blender modeling chair tutorial",
+          "Couch tutorial series"
+        ]
+      },
+      {
+        "name": "Grant Abbitt",
+        "link": "https://www.youtube.com/user/mediagabbitt",
+        "playlists": [
+          "Learn sculpting in blender 2.8",
+          "Blender 2.8 for beginners full course"
+        ]
+      },
+      {
+        "name": "CG Fast Track",
+        "link": "https://www.youtube.com/c/CGFastTrack",
+        "playlists": [
+          "Blender 2.9 Beginner Tutorial Series",
+          "CG Fast Track"
+        ]
+      },
+      {
+        "name": "DUCKY 3D",
+        "link": "https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ",
+        "playlists": [
+          "Shading with nodes"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCb_NEjjKOXV9pilaSOjlkZA",
+        "name": "Akash Murthy"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCgWd1Q2dcWdqCGNl5BijFsA",
+        "name": "Bela Platform"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/cycling74com",
+        "name": "Cycling '74"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCf-VdHm0OyV_TKD5BU9yIXw",
+        "name": "Digital Signal Processing"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/elifieldsteel",
+        "name": "Eli Fieldsteel - Supercollider"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCaF6fKdDrSmPDmiZcl9KLnQ",
+        "name": "JUCE"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCQB04t2hxSBVTjxpbIHdI-w",
+        "name": "Sam Aaron - Sonic Pi"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCEMuqW8dYhhbs4uXtcAaHvQ",
+        "name": "Seth Adams - Deep Learning Audio"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCpKb02FsH4WH4X_2xhIoJ1A",
+        "name": "The Audio Programmer"
+      }
+    ]
+  },
+  "Cybersercurity": {
+    "id": "cybersercurity",
+    "list": [
+      {
+        "name": "Cyberspatial",
+        "image": "",
+        "description": "",
+        "link": "https://www.youtube.com/c/Cyberspatial/about"
+      },
+      {
+        "name": "David Bombal",
+        "image": "",
+        "description": "",
+        "link": "https://www.youtube.com/c/DavidBombal",
+        "playlists": [
+          "CCNA Exam: 200-125, 100-105 and 200-105",
+          "Cisco playlists",
+          "SDN Videos"
+        ]
+      },
+      {
+        "name": "Professor Messer",
+        "link": "https://www.youtube.com/channel/UCkefXKtInZ9PLsoGRtml2FQ",
+        "playlists": [
+          "CompTIA Security+ SY0-501 Training Course",
+          "CompTIA N10-007 Network+ Study Groups",
+          "and many more like this!"
+        ]
+      },
+      {
+        "name": "CodeCommand",
+        "link": "https://www.youtube.com/c/CodeCommand",
+        "playlists": [
+          "Cyber Security - Penetration Testing Course (Offensive Security)",
+          "Kali Linux Tutorials | Pentesting Methods |"
+        ]
+      },
+      {
+        "name": "LiveOverflow",
+        "link": "https://www.youtube.com/c/LiveOverflowCTF",
+        "playlists": [
+          "Browser Exploitation",
+          "Hardware Security Research/Mobile",
+          "Binary Exploitation"
+        ]
+      },
+      {
+        "name": "NullByte",
+        "link": "https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g",
+        "playlists": [
+          "Using Wireshark",
+          "NodeMCU",
+          "RaspberryPi",
+          "Cyber Weapons lab"
+        ]
+      },
+      {
+        "name": "Hackersploit",
+        "link": "https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q",
+        "playlists": [
+          "Metasploit",
+          "Linux",
+          "NMap",
+          "Osint"
+        ]
+      },
+      {
+        "name": "Gerald Auger",
+        "link": "https://www.youtube.com/c/GeraldAuger",
+        "playlists": [
+          "Breaking Into Cybersecurity Videos - Simply Cyber",
+          "Cybersecurity Job Hunting QA with Recruiters",
+          "Free Pentester List Companion"
+        ]
+      },
+      {
+        "name": "Network Chuck",
+        "link": "https://www.youtube.com/c/NetworkChuck",
+        "playlists": [
+          "Linux - NetworkChuck",
+          "FREE Security+ SY0-601 // Complete Course // thisisIT 2020",
+          "FREE CCNA 200-301 // Complete Course // NetworkChuck 2020"
+        ]
+      }
+    ]
+  },
+  "Internet/networking": {
+    "id": "networking",
+    "list": [
+      {
+        "name": "Net VN",
+        "link": "https://www.youtube.com/c/NetVNbuitronghieu",
+        "playlists": [
+          "A lot of router/modem playlists",
+          "Software management of internet connection and network videos"
+        ]
+      },
+      {
+        "name": "Network Direction",
+        "link": "https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A",
+        "playlists": [
+          "Network Direction",
+          "Network Fundamentals",
+          "Firewall and LAN videos"
+        ]
+      },
+      {
+        "name": "NetworKing",
+        "link": "https://www.youtube.com/c/NetworKingInc",
+        "playlists": [
+          "Full Series | 200-301 CCNA | Free Cisco Video Training 2020 | Networking Inc.",
+          "other networking videos"
+        ]
+      },
+      {
+        "name": "PowerCert Animated Videos",
+        "link": "https://www.youtube.com/c/PowerCertAnimatedVideos",
+        "playlists": [
+          "Information Technology",
+          "CompTIA Certification"
+        ]
+      }
+    ]
+  },
+  "Math": {
+    "id": "math",
+    "list": [
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/joshstarmer",
+        "name": "StatQuest with Josh Starmer"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
+        "name": "3Blue1Brown"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/ritvikmath",
+        "name": "ritvikmath"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/zedstatistics",
+        "name": "zedstatistics"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/BrandonFoltz/featured",
+        "name": "Brandon Foltz"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/jonkrohnlearns",
+        "name": "Mathematical Foundations of ML with Jon Krohn"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/MathTheBeautiful/playlists",
+        "name": "MathTheBeautiful"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/DrTreforBazett/playlists",
+        "name": "Dr.Trefor Bazett"
+      }
+    ]
+  },
+  "Data Science": {
+    "id": "data-science",
+    "list": [
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg",
+        "name": "Ken Jee"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww",
+        "name": "Tina Huang"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q",
+        "name": "Data Professor"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/krishnaik06",
+        "name": "Krish Naik"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UC6VPXglDoZYMOj2kr-flNJQ",
+        "name": "Imaad Mohamed Khan"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/ImportData1/featured",
+        "name": "Import Data"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCv83tO5cePwHMt1952IVVHw",
+        "name": "James Briggs"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/95shawshankk19",
+        "name": "Shashank Kalanithi"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg",
+        "name": "Alex The Analyst"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UC7T_528unh2ZgnVcx1sl7oA/channels",
+        "name": "How to Get an Analytics Job"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCDoIFHMTKsgIweO-OZt1ecw",
+        "name": "Chris Lovejoy"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCbWVgqVWcthADXHgxXJn1bA",
+        "name": "Anastasia K"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCcQx1UnmorvmSEZef4X7-6g",
+        "name": "Data Science Jay"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ",
+        "name": "Nate at StrataScratch"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCLLw7jmFsvfIVaUFsLs8mlQ",
+        "name": "Luke Barousse"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/inferno0709",
+        "name": "Madhav Thaker"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCenqe6Cvfd47aHAOb9Qe8yA/featured",
+        "name": "Damsel in Data"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCKPyg5gsnt6h0aA8EBw3i6A",
+        "name": "RichardOnData"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ",
+        "name": "Part Time Larry"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA/featured",
+        "name": "The High ROI Data Scientist"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCBV194XNr6CIQCCuw1v2rMQ",
+        "name": "dataslice"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCAWsBMQY4KSuOuGODki-l7A",
+        "name": "Data Interview Pro"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/dataschool/featured",
+        "name": "Data School"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCQSMCVUX1HgrwxJhO_7VrJQ/featured",
+        "name": "DataInterview"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/365DataScience/videos",
+        "name": "365 Data Science"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UC5Uikv2NXsZ4ZEWOGyW__3A",
+        "name": "Data Science Society"
+      }
+    ]
+  },
+  "Data Engineering": {
+    "id": "data-engineering",
+    "list": [
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/SeattleDataGuy",
+        "name": "Seattle Data Guy"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCAxnMry1lETl47xQWABvH7g",
+        "name": "Karolina Sowinska"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/atozknowledgevideos/featured",
+        "name": "Data Engineering"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCiWjUAmiF3v91NbHOKuPNow/videos",
+        "name": "Tuan Vu"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCX5KGm1UmEFYYQfMmcluapQ",
+        "name": "StartDataEngineering"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/CodeFirstio/featured",
+        "name": "Code First"
+      }
+    ]
+  },
+  "Machine Learning": {
+    "id": "ml",
+    "list": [
+      {
+        "name": "Abhishek Thakur",
+        "link": "https://www.youtube.com/c/AbhishekThakurAbhi",
+        "playlists": [
+          "Applied Machine Learning Framework",
+          "Tips & Tricks of machine learning",
+          "more videos!"
+        ]
+      },
+      {
+        "name": "Ahlad Kumar",
+        "link": "https://www.youtube.com/c/AhladKumar",
+        "playlists": [
+          "Deep Learning",
+          "Convolutional Neural Network",
+          "Neural Networks playlists",
+          "many more playlists!"
+        ]
+      },
+      {
+        "name": "Aladdin Persson",
+        "link": "https://www.youtube.com/c/AladdinPersson",
+        "playlists": [
+          "PyTorch Tutorials",
+          "TensorFlow 2.0 Beginner Tutorials",
+          "Machine Learning Algorithms"
+        ]
+      },
+      {
+        "name": "Andreas Mueller",
+        "link": "https://www.youtube.com/c/AndreasMueller",
+        "playlists": [
+          "Applied Machine Learning 2020"
+        ]
+      },
+      {
+        "name": "Data School",
+        "link": "https://www.youtube.com/c/dataschool",
+        "playlists": [
+          "Introduction to Machine Learning playlists",
+          "Data analysis in Python with Pandas",
+          "other talks videos and Python videos"
+        ]
+      },
+      {
+        "name": "Henry AI Labs",
+        "link": "https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw",
+        "playlists": [
+          "Deep Learning Paper Summaries",
+          "Reinforcement Learning",
+          "Generative Adversarial Networks",
+          "Neural Network Design"
+        ]
+      },
+      {
+        "name": "Jeremy Howard",
+        "link": "https://www.youtube.com/user/howardjeremyp",
+        "playlists": [
+          "Deep Learning from the Foundations",
+          "Introduction to Machine Learning for Coders",
+          "Practical Deep Learning for Coders (2018, 2019, 2020)"
+        ]
+      },
+      {
+        "name": "Rasa",
+        "link": "https://www.youtube.com/c/RasaHQ",
+        "playlists": [
+          "NLP for Developers",
+          "Developing Contextual AI assistants with Rasa tools",
+          "Algorithm Whiteboard",
+          "Live Coding"
+        ]
+      },
+      {
+        "name": "Yannic Kilcher",
+        "link": "https://www.youtube.com/c/YannicKilcher",
+        "playlists": [
+          "Natural Language Processing",
+          "General Machine Learning",
+          "Deep Learning Architectures",
+          "Computer Vision",
+          "Applications of Machine Learning",
+          "more!"
+        ]
+      },
+      {
+        "name": "OpenAI",
+        "link": "https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A",
+        "playlists": [
+          "Events and Talks",
+          "Research Releases",
+          "Robotics"
+        ]
+      },
+      {
+        "name": "Two Minute Papers",
+        "link": "https://www.youtube.com/c/K%C3%A1rolyZsolnai",
+        "playlists": [
+          "Two Minute Papers",
+          "AlphaGo",
+          "Fluid, Cloth and Hair Simulations",
+          "AI and Deep Learning",
+          "Light Transport, Ray Tracing and Global Illumination"
+        ]
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg",
+        "name": "What's AI"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ",
+        "name": "Daniel Bourke"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/marksaroufim",
+        "name": "Mark Saroufim"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/NicholasRenotte",
+        "name": "Nicholas Renotte"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/AbhishekThakurAbhi",
+        "name": "Abhishek Thakur"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/AladdinPersson",
+        "name": "Aladdin Persson"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/CodeEmporium/featured",
+        "name": "CodeEmporium"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCmOwsoHty5PrmE-3QhUBfPQ",
+        "name": "Jay Alammar"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/CodeThisCodeThat/featured",
+        "name": "Yacine Mahdid"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/featured",
+        "name": "Henry AI Labs"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCsh8qhZ4Wm2IJDRsNr_5Z0A",
+        "name": "Smitha Kolan - Machine Learning Engineer"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/aicoffeebreak",
+        "name": "AI Coffee Break with Letitia"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw",
+        "name": "deeplizard"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UC1OLIHvAKBQy3o5LcbbxUSg",
+        "name": "The Independent Code"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/AlfredoCanziani/featured",
+        "name": "Alfredo Canziani"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCbOX--VOebPe-MMRkatFRxw/featured",
+        "name": "Cassie Kozyrkov"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/AIEngineeringLife/featured",
+        "name": "AIEngineering"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCk1u5_qq_nrdz13-o5K6beQ",
+        "name": "Kapil Sachdeva"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/AICoding/featured",
+        "name": "AI Coding"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCZPFjMe1uRSirmSpznqvJfQ",
+        "name": "Valerio Velardo - The Sound of AI"
+      }
+    ]
+  },
+  "Game development": {
+    "id": "gamedev",
+    "list": [
+      {
+        "name": "ScriptersWar",
+        "link": "https://www.youtube.com/c/ScriptersWar",
+        "playlists": [
+          "How to Make HTML5 Games: JavaScript Tutorial for Beginners JS Guide",
+          "a lot more videos"
+        ]
+      },
+      {
+        "name": "Brackeys",
+        "link": "https://www.youtube.com/c/Brackeys",
+        "playlists": [
+          "How to make a 2D Platformer - Unity Course",
+          "Making a Multiplayer FPS in Unity",
+          "How to program in C# - Beginner Course",
+          "Unity 2D Tutorials"
+        ]
+      },
+      {
+        "name": "Jonas Tyroller",
+        "link": "https://www.youtube.com/c/JonasTyroller",
+        "playlists": [
+          "Will You Snail? - Full Development.",
+          "Game Dev Tips",
+          "How To Get Started With Game Development."
+        ]
+      },
+      {
+        "name": "RealTutsGML",
+        "link": "https://www.youtube.com/c/RealTutsGML",
+        "playlists": [
+          "Java Basic Programming",
+          "Cool Game Maker Tutorials",
+          "Beginner Java Game Development",
+          "Java Platform Game Programming"
+        ]
+      },
+      {
+        "name": "Mark Rise",
+        "link": "https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w",
+        "playlists": [
+          "Geometric design playlists",
+          "Video Game Character Animation Course",
+          "After Effects Animation Tutorials"
+        ]
+      },
+      {
+        "name": "Chris Courses",
+        "link": "https://www.youtube.com/c/ChrisCourses",
+        "playlists": [
+          "HTML5 Canvas Tutorials for Beginners | Become a Canvas Pro",
+          "other JavaScript-related videos"
+        ]
+      },
+      {
+        "name": "Zenva",
+        "link": "https://www.youtube.com/c/Zenva",
+        "playlists": [
+          "Master Unity Game Development",
+          "Unreal Game Development Mini-Degree",
+          "Godot Game Development Mini-Degree",
+          "a very lot more playlists about game development and design!"
+        ]
+      },
+      {
+        "name": "Mix and Jam",
+        "link": "https://www.youtube.com/c/MixandJam",
+        "playlists": [
+          "Mix and Jam Recreations",
+          "Game Jams",
+          "RE Mix and Jam"
+        ]
+      },
+      {
+        "name": "Sebastian Lague",
+        "link": "https://www.youtube.com/c/SebastianLague",
+        "playlists": [
+          "Introduction to Game Development (Unity and C#)",
+          "Procedural Planet Generation",
+          "Coding Adventures"
+        ]
+      },
+      {
+        "name": "DaFluffyPotato",
+        "link": "https://www.youtube.com/c/DaFluffyPotato",
+        "playlists": [
+          "Pygame Tutorial Series (beginner)",
+          "Pygame Tutorial Series (amateur)",
+          "Pygame Tutorial Series (advanced)",
+          "more Pygame videos!"
+        ]
+      },
+      {
+        "name": "ChiliTomatoNoodle",
+        "link": "https://www.youtube.com/c/ChiliTomatoNoodle",
+        "playlists": [
+          "Beginner C++ Game Programming",
+          "Intermediate C++ Game Programming",
+          "Advanced C++ Game Programming",
+          "3D Programming Fundamentals",
+          "C++ 3D DirextX Programming"
+        ]
+      },
+      {
+        "name": "GDQuest",
+        "link": "https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ",
+        "playlists": [
+          "Godot 3 tutorials",
+          "3d Maze Game in Godot",
+          "Make Your First 2D Game with Godot",
+          "Godot - Beginner Game Creation Tutorials"
+        ]
+      },
+      {
+        "name": "HeartBeast",
+        "link": "https://www.youtube.com/user/uheartbeast",
+        "playlists": [
+          "Godot Engine Tutorials",
+          "Resource Based Inventory Tutorial in Godot",
+          "2D Hack-n-Slash Course (Complete Course)",
+          "GameMaker Platform Tutorials"
+        ]
+      },
+      {
+        "name": "Meth Meth Method",
+        "link": "https://www.youtube.com/c/MethMethMethod",
+        "playlists": [
+          "Super Mario Bros in JavaScript",
+          "Creating a Tetris Online Multiplayer in Javascript"
+        ]
+      },
+      {
+        "name": "Clear Code",
+        "link": "https://www.youtube.com/c/ClearCode",
+        "playlists": [
+          "Pygame Fundamentals",
+          "Creating Pong in Pygame",
+          "Learning pygame by making Flappy Bird",
+          "Google dinosaur runner in Godot"
+        ]
+      }
+    ]
+  },
+  "AI Research": {
+    "id": "ai-research",
+    "list": [
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/AIJournal",
+        "name": "AI Journal"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg",
+        "name": "Arxiv Insights"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/YannicKilcher/featured",
+        "name": "Yannic Kilcher"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured",
+        "name": "Two Minute Papers"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng",
+        "name": "bycloud"
+      }
+    ]
+  },
+  "Digital Design": {
+    "id": "design",
+    "list": [
+      {
+        "name": "How to Graphic Design",
+        "link": "https://www.youtube.com/c/HowtoGraphicDesign",
+        "playlists": [
+          "Adobe Illustrator CC Flat Illustration Tutorials",
+          "Logo Creation Tutorials playlists",
+          "Adobe Illustrator CC for Beginners",
+          "more Adobe Illustrator playlists"
+        ]
+      },
+      {
+        "name": "ArmaganVideos",
+        "link": "https://www.youtube.com/c/armaganvideos",
+        "playlists": [
+          "Tutorials - Illustrator",
+          "Tutorials - After Effects",
+          "Tutorials - Flat Design"
+        ]
+      },
+      {
+        "name": "T&T Tutorials",
+        "link": "https://www.youtube.com/c/TTTutorials",
+        "playlists": [
+          "Adobe Illustrator Tutorials",
+          "Character Illustration Illustrator Tutorials",
+          "Adobe Illustrator Tools Tutorials"
+        ]
+      },
+      {
+        "name": "Pixel & Bracket",
+        "link": "https://www.youtube.com/c/Pixelandbracket",
+        "playlists": [
+          "Illustrator Tutorials",
+          "Photoshop Tutorials",
+          "other design videos"
+        ]
+      },
+      {
+        "name": "Zakey Design",
+        "link": "https://www.youtube.com/c/ZakeyDesignow",
+        "playlists": [
+          "Gimp Photo Manipulation",
+          "Inkscape playlists",
+          "Adobe Illustrator videos"
+        ]
+      },
+      {
+        "name": "Art with Flo",
+        "link": "https://www.youtube.com/c/ArtwithFlo",
+        "playlists": [
+          "PROCREATE TUTORIALS",
+          "DIGITAL ART TUTORIALS",
+          "Digital Drawing on iPad Pro | Easy Drawing Tutorials",
+          "more playlists!"
+        ]
+      },
+      {
+        "name": "Envato Tuts+",
+        "link": "https://www.youtube.com/c/tutsplus",
+        "playlists": [
+          "Learn Adobe Photoshop",
+          "Learn About Fonts",
+          "Photo and video manipulation playlists",
+          "Figma videos",
+          "Learn Photo Effects"
+        ]
+      },
+      {
+        "name": "Logos By Nick",
+        "link": "https://www.youtube.com/c/logosbynick",
+        "playlists": [
+          "Inkscape Beginner Tutorials",
+          "GIMP Tutorials",
+          "Inkscape Typeface Tutorials",
+          "Inkscape Logo Design Tutorials"
+        ]
+      },
+      {
+        "name": "Mohamed Achraf",
+        "link": "https://www.youtube.com/c/MohamedAchraf",
+        "playlists": [
+          "The Logo Design Process",
+          "Adobe Illustrator Tips & Tricks",
+          "Character Designs",
+          "Illustrator Speedarts"
+        ]
+      }
+    ]
+  },
+  "Operating Systems": {
+    "id": "os",
+    "list": [
+      {
+        "name": "Riba Linux",
+        "link": "https://www.youtube.com/c/RibaLinux",
+        "playlists": [
+          "Install and overview",
+          "Linux How-to"
+        ]
+      },
+      {
+        "name": "MSFT WebCast",
+        "link": "https://www.youtube.com/c/MSFTWebCast",
+        "playlists": [
+          "Windows Server Beginners Tutorials",
+          "Managing Networking services in Windows Server",
+          "Managing Active Directory Infrastructure"
+        ]
+      }
+    ]
+  },
+  "Hardware": {
+    "id": "hardware",
+    "list": [
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng",
+        "name": "Ben Eater",
+        "playlists": [
+          "Building an 8-bit breadboard computer!",
+          "Network tutorial",
+          "Digital electronics tutorials",
+          "a lot of videos related"
+        ]
+      },
+      {
+        "name": "Teaching Tech",
+        "link": "https://www.youtube.com/c/TeachingTech",
+        "playlists": [
+          "3D printing for beginners",
+          "3D Printing",
+          "Ender playlists",
+          "Onshape 3D Modelling",
+          "Printer reviews playlists"
+        ]
+      },
+      {
+        "name": "Linus Tech Tips",
+        "link": "https://www.youtube.com/c/LinusTechTips",
+        "playlists": [
+          "Build Guides, Buyer's Guides, and Ultimate Guides",
+          "Computer Systems & All-in-Ones",
+          "CPU, Motherboard, Memory Videos",
+          "many more"
+        ]
+      },
+      {
+        "name": "educ8s.tv",
+        "link": "https://www.youtube.com/c/Educ8s",
+        "playlists": [
+          "Arduino Tutorials for Beginners",
+          "Raspberry Pi Tutorials for Beginners",
+          "a lot more Arduino tutorials/projects videos!"
+        ]
+      },
+      {
+        "name": "GreatScott!",
+        "link": "https://www.youtube.com/user/greatscottlab",
+        "playlists": [
+          "3D Printing",
+          "DIY or Buy",
+          "Build your own Ambilight with the Raspberry Pi"
+        ]
+      },
+      {
+        "name": "RaspberryPiIVBeginners",
+        "link": "https://www.youtube.com/user/RaspberryPiBeginners",
+        "playlists": [
+          "Getting started with your Raspberry Pi"
+        ]
+      },
+      {
+        "name": "ExplainingComputers",
+        "link": "https://www.youtube.com/user/explainingcomputers",
+        "playlists": [
+          "Artificial Intelligence",
+          "Pi Zero Projects",
+          "Migrating to Linux",
+          "many more"
+        ]
+      }
+    ]
+  },
+  "Life Skills And Job Searching": {
+    "id": "life-skills",
+    "list": [
+      {
+        "name": "GCFLearnFree.org",
+        "link": "https://www.youtube.com/c/GcflearnfreeOrgplus",
+        "playlists": [
+          "Searching For A Job",
+          "Economic thinking playlists",
+          "Office Suite tutorials",
+          "Making Decisions",
+          "Life skills playlists",
+          "and more!"
+        ]
+      },
+      {
+        "name": "mayuko",
+        "link": "https://www.youtube.com/c/hellomayuko",
+        "playlists": [
+          "How to Kickstart Your Software Engineering Career",
+          "📈career 📈",
+          "🖥t e c h 🖥",
+          "🌱health 🌱"
+        ]
+      },
+      {
+        "name": "Joshua Fluke",
+        "link": "https://www.youtube.com/user/Tychos1",
+        "playlists": [
+          "Entrepreneurship",
+          "How to apply to jobs"
+        ]
+      },
+      {
+        "name": "Joma Tech",
+        "link": "https://www.youtube.com/c/JomaOppa",
+        "playlists": [
+          "Path to Software Engineering",
+          "Tech Shows",
+          "Startup Series",
+          "Interviews",
+          "Data Science Analytics"
+        ]
+      }
+    ]
+  },
+  "Electronics": {
+    "id": "electronics",
+    "list": [
+      {
+        "name": "All About Electronics",
+        "link": "https://www.youtube.com/c/ALLABOUTELECTRONICS",
+        "playlists": [
+          "BJT",
+          "Analog Electronics",
+          "Network Analysis"
+        ]
+      }
+    ]
+  },
+  "Pobcasts": {
+    "id": "pobcasts",
+    "list": [
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/lexfridman",
+        "name": "Lex Fridman"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCsEdlkbxrAH93NVGFgGtgdA",
+        "name": "bitgrit_official"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/MachineLearningStreetTalk/videos",
+        "name": "Machine Learning Street Talk"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/WeightsBiases",
+        "name": "Weights & Biases"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/ChaiTimeDataScience/featured",
+        "name": "Chai Time Data Science"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UC60gRMJRjTuTskBnl-LkPAg",
+        "name": "Data Skeptic"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/datafuturology",
+        "name": "Data Futurology"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/oreilly/featured",
+        "name": "O'Reilly"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/TowardsDataScience/videos",
+        "name": "Towards Data Science"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/OpenDataScienceCon/videos",
+        "name": "Open Data Science"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/springboard/featured",
+        "name": "Springboard"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/DataScienceSalon/featured",
+        "name": "Data Science Salon"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/Deeplearningai",
+        "name": "DeepLearningAI"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UC4yopSSlBfw2WAykLPTYH-w/featured",
+        "name": "The Ravit Show"
+      }
+    ]
+  },
+  "Organizations": {
+    "id": "organizations",
+    "list": [
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/DeepMind/videos",
+        "name": "DeepMind"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/TensorFlow/featured",
+        "name": "TensorFlow"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/googlecloudplatform/featured",
+        "name": "Google Cloud Tech"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ",
+        "name": "TensorFlow"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w",
+        "name": "HuggingFace"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A",
+        "name": "OpenAI"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw",
+        "name": "PyTorch"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/kaggledotcom",
+        "name": "Kaggle"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/user/0xdata",
+        "name": "H2O.ai"
+      },
+      {
+        "description": "",
+        "image": "",
+        "link": "https://www.youtube.com/c/Datacamp/featured",
+        "name": "DataCamp"
+      }
+    ]
+  }
+}

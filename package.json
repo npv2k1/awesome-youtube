@@ -1,0 +1,25 @@
+{
+  "name": "awesome-yt",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "dist": "next build && next export"
+  },
+  "dependencies": {
+    "@tailwindcss/line-clamp": "^0.2.1",
+    "link-preview-js": "^2.1.6",
+    "next": "10.2.2",
+    "node-fetch": "^2.6.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "tailwind-scrollbar-hide": "^1.0.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.3.0",
+    "tailwindcss": "^2.1.2"
+  }
+}
