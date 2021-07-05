@@ -10,10 +10,7 @@ export default async (req, res) => {
       },
     });
     res.send(data);
+  } else {
+    res.send("no");
   }
-  else{
-      res.send("no")
-  }
-  
-  
 };

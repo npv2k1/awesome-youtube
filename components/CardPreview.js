@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-function CardPreview({ dt,url, playlists }) {
+function CardPreview({ dt, url, playlists }) {
   const [link, setLink] = useState("");
   const [image, setImage] = useState("");
   const [name, setName] = useState("");
